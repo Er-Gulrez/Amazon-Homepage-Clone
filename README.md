@@ -14,14 +14,6 @@ This is a front-end Amazon Clone project created using **HTML** and **CSS**. It 
 - CSS3
 - Font Awesome (for icons)
 
-## 📁 Folder Structure
-
-/Amazon-Clone
-│
-├── index.html # Main HTML page
-├── style.css # Styling for the clone
-└── Images/ # Product and logo images
-
 ## 📸 Screenshots
 
 ### 🖥️ Homepage Preview
